@@ -10,7 +10,6 @@ body {
 header {
     background-color: #222;
     padding: 20px;
-    display: flex;
     justify-content: space-between;
     align-items: center;
 }
@@ -121,7 +120,8 @@ main {
 }
 
 .regulamin-link {
-    margin-top: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .regulamin-link a {
